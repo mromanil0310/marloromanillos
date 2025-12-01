@@ -42,7 +42,7 @@ I love building **personal learning projects** to explore data engineering, clou
 ### 📚 Learning & Upskilling
 
 <p align="justify">
-🚀 Cloud & Warehousing: Azure Data Engineering (DP-203), Snowflake, Databricks
+🚀 Cloud & Warehousing: Azure Data Engineering, Snowflake, Databricks
 <p align="justify">
 ⚙️ ETL / Data Pipelines: Databricks, Azure Data Factory
 <p align="justify">
