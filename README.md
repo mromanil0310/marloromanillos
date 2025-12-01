@@ -16,6 +16,12 @@ I love building **personal learning projects** to explore data engineering, clou
 
 ---
 
+### 🎓 Certifications
+
+[![PMP Certified](https://img.shields.io/badge/PMP®-Project%20Management%20Professional-blue?style=for-the-badge&logo=projectmanagement&logoColor=white)](https://www.credly.com/badges/f13e7fdc-8129-4de3-9ad7-0b4b99c7fad1)
+
+---
+
 ### 🛠️ Skills & Technologies
 
 | Category | Tools |
@@ -26,12 +32,6 @@ I love building **personal learning projects** to explore data engineering, clou
 | 🧠 Programming | Python, SQL |
 | 🔄 Orchestration & Scheduling | IBM DataStage Sequencer, Informatica Scheduler, Control-M, Autosys, Stonebranch |
 | 📋 Project Management | PMP® Certified, Scrum, Waterfall, Agile Hybrid, Stakeholder & Risk Management |
-
----
-
-### 🎓 Certifications
-
-! [PMP Certified] (https://www.credly.com/badges/f13e7fdc-8129-4de3-9ad7-0b4b99c7fad1)
 
 ---
 
